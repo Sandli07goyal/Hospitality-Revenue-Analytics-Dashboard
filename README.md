@@ -33,7 +33,7 @@ Improve marketing and operations strategies based on occupancy and cancellation 
 
 📷 Screenshots and Demos
 
-See how the dashboard works like: 
+See how the dashboard works like: https://github.com/Sandli07goyal/Hospitality-Revenue-Analytics-Dashboard/blob/main/Working%20of%20Hospitality%20Dashboard.mov
 
 See how the dashboard Looks like: https://github.com/Sandli07goyal/Hospitality-Revenue-Analytics-Dashboard/blob/main/Hospitality%20Dashboard.png
 
